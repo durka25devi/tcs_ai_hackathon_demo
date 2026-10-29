@@ -1,0 +1,9 @@
+product_id,product_name,category,current_price,ingredient_cost,packaging_cost,portion_size_g,available_stock,waste_quantity
+P101,Veg Sandwich,Snacks,40.0,16.0,2.0,180,70,4
+P102,Veg Burger,Snacks,50.0,22.0,3.0,210,65,3
+P103,French Fries,Sides,35.0,12.0,3.0,130,80,5
+P104,Lemon Juice,Beverages,20.0,5.0,2.0,250,90,4
+P105,Cold Coffee,Beverages,35.0,14.0,3.0,250,60,3
+P106,Samosa,Snacks,15.0,5.0,1.0,90,120,6
+P107,Paneer Roll,Snacks,55.0,25.0,3.0,200,50,3
+P108,Water Bottle,Beverages,15.0,9.0,1.0,500,150,1
